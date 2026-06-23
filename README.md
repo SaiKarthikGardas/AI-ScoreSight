@@ -4,7 +4,7 @@
 
 A full-stack machine learning system that predicts English Premier League outcomes — final season points and the eventual league champion — using historical match data and an XGBoost model, served through a Flask API and presented through a Streamlit interface.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sai-karthik-gardas-epl.streamlit.app)
+[![Live Demo🚀](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sai-karthik-gardas-epl.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge)
