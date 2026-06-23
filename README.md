@@ -95,9 +95,9 @@ streamlit run Deployment/app.py
 
 ---
 
-## 👥 Team & Recognition
+## 👥 Team & Recognition🚀
 
-Led a 3-person team to build and present this project at Infosys Springboard in front of a ~3,000-member panel — recognised as a **top-performing team**.
+Led a 7-person team to build and present this project at Infosys Springboard in front of a ~3,000-member panel — recognised as a **top-performing team**.
 
 ---
 
