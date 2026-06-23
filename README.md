@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a2a4a,100:1e3a5f&amp;height=200&amp;section=header&amp;text=AI-ScoreSight&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=EPL%20Points%20%26%20League%20Winner%20Prediction%20System&amp;descSize=16&amp;descAlignY=58&amp;descColor=7dcfff" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;lines=Predicting+Final+Points+%7C+League+Champions;Streamlit+UI+%2B+Flask+API+%2B+XGBoost+Engine;Led+%26+Presented+at+Infosys+Springboard" alt="Typing SVG" />
 </p>
 
