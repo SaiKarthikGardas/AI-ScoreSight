@@ -1,33 +1,34 @@
-# ⚽ AI-ScoreSight
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a2a4a,100:1e3a5f&amp;height=200&amp;section=header&amp;text=AI-ScoreSight&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=EPL%20Points%20%26%20League%20Winner%20Prediction%20System&amp;descSize=16&amp;descAlignY=58&amp;descColor=7dcfff" />
+</p>
 
-**EPL Points & League Winner Prediction System**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;lines=Predicting+Final+Points+%7C+League+Champions;Streamlit+UI+%2B+Flask+API+%2B+XGBoost+Engine;Led+%26+Presented+at+Infosys+Springboard" alt="Typing SVG" />
+</p>
 
-A full-stack machine learning system that predicts English Premier League outcomes — final season points and the eventual league champion — using historical match data and an XGBoost model, served through a Flask API and presented through a Streamlit interface.
+<p align="center">
+  <a href="https://sai-karthik-gardas-epl.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-7dcfff?style=for-the-badge" />
+</p>
 
-[![Live Demo🚀](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sai-karthik-gardas-epl.streamlit.app)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-7dcfff?style=for-the-badge)
+<br/>
 
 ---
 
-## Overview
+## ⚽ Overview
+
+**AI-ScoreSight** is a full-stack machine learning system that predicts English Premier League outcomes — final season points and the eventual league champion — using historical match data and an XGBoost model, served through a Flask API and presented through a Streamlit interface.
 
 Built and led during the **Infosys Springboard internship**, AI-ScoreSight took the team's modeling work from raw historical data to a deployed, end-to-end prediction system. As team lead, I drove the technical direction and presented the final project to the review panel, who praised the depth and polish of the work.
 
-**[Live Demo →](https://sai-karthik-gardas-epl.streamlit.app)**
+**🔗 [Live Demo →](https://sai-karthik-gardas-epl.streamlit.app)**
 
 ---
 
-## Leadership & Recognition🚀
-
-As team lead, I guided the project from concept to deployment and presented it to the Infosys Springboard review panel, where it was recognised for its quality and execution.
-
-
----
-
-## Features
+## ✨ Features
 
 | Module | What it predicts |
 |---|---|
@@ -36,17 +37,37 @@ As team lead, I guided the project from concept to deployment and presented it t
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend** — Streamlit
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Backend** — Flask, REST API
+**Frontend**<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white)
 
-**ML / Data** — XGBoost, Pandas, scikit-learn
+</td>
+<td valign="top" width="33%">
+
+**Backend**<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+
+</td>
+<td valign="top" width="34%">
+
+**ML / Data**<br/>
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 AI-ScoreSight/
 
