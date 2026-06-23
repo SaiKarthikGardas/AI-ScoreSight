@@ -20,6 +20,13 @@ Built and led during the **Infosys Springboard internship**, AI-ScoreSight took 
 
 ---
 
+## Leadership & Recognition🚀
+
+As team lead, I guided the project from concept to deployment and presented it to the Infosys Springboard review panel, where it was recognised for its quality and execution.
+
+
+---
+
 ## Features
 
 | Module | What it predicts |
@@ -56,12 +63,6 @@ AI-ScoreSight/
 │   └── app.py                  # Streamlit + Flask app entry point
 
 └── LICENSE
-
----
-
-## Leadership & Recognition🚀
-
-As team lead, I guided the project from concept to deployment and presented it to the Infosys Springboard review panel, where it was recognised for its quality and execution.
 
 ---
 
