@@ -20,7 +20,7 @@
 
 Built and led during the **Infosys Springboard internship**, AI-ScoreSight took the team's modeling work from raw historical data to a deployed, end-to-end prediction system. As team lead, I drove the technical direction and presented the final project to the review panel, who praised the depth and polish of the work.
 
-**🔗 [Live Demo →](https://sai-karthik-gardas-epl.streamlit.app)**
+**🔗 [Live Demo🚀](https://sai-karthik-gardas-epl.streamlit.app)**
 
 ---
 
