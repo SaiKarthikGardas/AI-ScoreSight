@@ -41,3 +41,31 @@ Built as a 7-person team project during the **Infosys Springboard internship** (
 ---
 
 ## Project Structure
+AI-ScoreSight/
+
+├── data_raw/                   # Raw historical EPL datasets
+
+├── match_winner_model/         # Trained XGBoost model for match outcomes
+
+├── Final_Project_Files/
+
+│   ├── League_winner_Folder/   # League winner prediction logic
+
+│   └── Overall_Points_Folder/  # Final points prediction logic
+
+├── Deployment/
+
+│   └── app.py                  # Streamlit + Flask app entry point
+
+└── LICENSE
+
+## Team & Recognition
+
+Led a 7-person team to build and present this project at Infosys Springboard in front of a ~3,000-member panel — recognised as a **top-performing team**.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+This drops every animated/external SVG that was causing the parsing error, keeps the shields.io badges (those render as static images and won't break your page), and tightens the structure with consistent heading levels and spacing throughout. Want me to also save this as an actual README.md file for you to download?
